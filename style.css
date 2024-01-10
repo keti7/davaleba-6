@@ -1,0 +1,27 @@
+body{
+    background-color: #f0f0f0;
+}
+a{
+    color:#0066cc;
+}
+.center{
+    text-align: center;
+}
+.contact{
+    display: flex;
+}
+.color,.phone{
+    color:#0066cc;
+}
+.contact-2{
+    display: flex;
+}
+.education,.work{
+    display: flex;
+}
+.graduate,.june{
+    color: #cc3300;
+}
+.extra{
+    color: #555;
+}
